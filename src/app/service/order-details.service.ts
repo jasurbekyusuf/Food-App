@@ -20,7 +20,7 @@ export class OrderDetailsService {
     {
       id:2,
       foodName:"Big Pizza",
-      foodDetails:"Onion| Green Capsicum|Mushroom |black olives , sweet corn , Red Paprika topped with Cheese",
+      foodDetails:"lorem imsum lorem",
       foodPrice:9,
       foodImg:"../../assets/img/Pizza01.jpg"
     },
