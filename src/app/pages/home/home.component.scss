@@ -3,6 +3,14 @@
   height: 600px;
   background-position: center top;
   background-size: cover;
+
+  #myVideo {
+    right: 0;
+    bottom: 0;
+    min-width: 90%;
+    min-height: 90%;
+    background-color: #333;
+  }
 }
 
 .content{
